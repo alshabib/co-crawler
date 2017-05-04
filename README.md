@@ -2,4 +2,4 @@
 
 ## Example Usage
 
-./co-crawler -C "San Francisco" -C Oakland
+./co-crawler -a <GOOGLE_API_KEY> -Z <comma-sep-zipcodes>
